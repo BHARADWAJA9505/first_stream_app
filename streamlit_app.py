@@ -1,4 +1,4 @@
 import streamlit
 
 streamlit.title('Hi')
-streamli.title('good morning')
+streamlit.title('good morning')
